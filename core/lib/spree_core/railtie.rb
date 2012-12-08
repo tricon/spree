@@ -43,6 +43,7 @@ module SpreeCore
           Gateway::Eway,
           Gateway::Linkpoint,
           Gateway::PayPal,
+          Gateway::Sage,
           Gateway::SagePay,
           Gateway::Beanstream,
           Gateway::Braintree,
